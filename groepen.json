@@ -1,0 +1,229 @@
+{
+  "Senioren": [
+    {
+      "name": "Tonido",
+      "club": "Tonido",
+      "exercises": {
+        "Bal": {
+          "dScore": 6.3,
+          "aScore": 5.8,
+          "eScore": 3.3,
+          "aftrek": 0,
+          "subtotal": 15.4
+        },
+        "Hoepel/bal": {
+          "dScore": 5.3,
+          "aScore": 4.1,
+          "eScore": 2.25,
+          "aftrek": 1,
+          "subtotal": 10.65
+        }
+      },
+      "total": 15.4,
+      "rank": 1
+    },
+    {
+      "name": "SVOD",
+      "club": "SVOD",
+      "exercises": {
+        "Bal": {
+          "dScore": 3.9,
+          "aScore": 6.5,
+          "eScore": 3.45,
+          "aftrek": 0,
+          "subtotal": 13.85
+        },
+        "Hoepel": {
+          "dScore": 3.8,
+          "aScore": 3.7,
+          "eScore": 0.8,
+          "aftrek": 0.3,
+          "subtotal": 8
+        }
+      },
+      "total": 13.85,
+      "rank": 2
+    },
+    {
+      "name": "Bato 2",
+      "club": "Bato",
+      "exercises": {
+        "Bal": {
+          "dScore": 5.1,
+          "aScore": 4.3,
+          "eScore": 2.6,
+          "aftrek": 0,
+          "subtotal": 12
+        },
+        "Hoepel/bal": {
+          "dScore": 2.6,
+          "aScore": 3.6,
+          "eScore": 1.5,
+          "aftrek": 0.5,
+          "subtotal": 7.2
+        }
+      },
+      "total": 12,
+      "rank": 3
+    },
+    {
+      "name": "Bato 1",
+      "club": "Bato",
+      "exercises": {
+        "Hoepel/bal": {
+          "dScore": 4.8,
+          "aScore": 5.1,
+          "eScore": 2.5,
+          "aftrek": 0.5,
+          "subtotal": 11.9
+        },
+        "Bal": {
+          "dScore": 4.8,
+          "aScore": 3.2,
+          "eScore": 0.9,
+          "aftrek": 0.8,
+          "subtotal": 8.1
+        }
+      },
+      "total": 11.9,
+      "rank": 4
+    }
+  ],
+  "Benjamins": [
+    {
+      "name": "SVOD",
+      "club": "SVOD",
+      "exercises": {
+        "ZM": {
+          "dScore": 2.6,
+          "aScore": 5.6,
+          "eScore": 6.2,
+          "aftrek": 0,
+          "subtotal": 14.4
+        }
+      },
+      "total": 14.4,
+      "rank": 1
+    },
+    {
+      "name": "SV Twello",
+      "club": "SV Twello",
+      "exercises": {
+        "ZM": {
+          "dScore": 3.6,
+          "aScore": 6,
+          "eScore": 4.3,
+          "aftrek": 0,
+          "subtotal": 13.9
+        }
+      },
+      "total": 13.9,
+      "rank": 2
+    },
+    {
+      "name": "Hercules hebe",
+      "club": "Hercules Hebe",
+      "exercises": {
+        "ZM": {
+          "dScore": 0.9,
+          "aScore": 5.5,
+          "eScore": 5.9,
+          "aftrek": 0,
+          "subtotal": 12.3
+        },
+        "Hoepel": {
+          "dScore": 0.6,
+          "aScore": 3.7,
+          "eScore": 2.75,
+          "aftrek": 0.3,
+          "subtotal": 6.75
+        }
+      },
+      "total": 12.3,
+      "rank": 3
+    },
+    {
+      "name": "TSG",
+      "club": "TSG",
+      "exercises": {
+        "Bal": {
+          "dScore": 0.7,
+          "aScore": 3.7,
+          "eScore": 4,
+          "aftrek": 0,
+          "subtotal": 8.4
+        }
+      },
+      "total": 8.4,
+      "rank": 4
+    }
+  ],
+  "Pre-junioren": [
+    {
+      "name": "SVOD",
+      "club": "SVOD",
+      "exercises": {
+        "ZM": {
+          "dScore": 3.7,
+          "aScore": 6,
+          "eScore": 4.35,
+          "aftrek": 0,
+          "subtotal": 14.05
+        },
+        "Hoepel": {
+          "dScore": 2.7,
+          "aScore": 4.9,
+          "eScore": 4.95,
+          "aftrek": 0,
+          "subtotal": 12.55
+        }
+      },
+      "total": 14.05,
+      "rank": 1
+    },
+    {
+      "name": "SV Twello",
+      "club": "SV Twello",
+      "exercises": {
+        "Hoepel": {
+          "dScore": 2.5,
+          "aScore": 4.8,
+          "eScore": 3.05,
+          "aftrek": 0.3,
+          "subtotal": 10.05
+        },
+        "ZM": {
+          "dScore": 3.4,
+          "aScore": 4.4,
+          "eScore": 4.45,
+          "aftrek": 0,
+          "subtotal": 12.25
+        }
+      },
+      "total": 10.05,
+      "rank": 2
+    },
+    {
+      "name": "Ritmica RG club",
+      "club": "Ritmica RG club",
+      "exercises": {
+        "Hoepel": {
+          "dScore": 2.4,
+          "aScore": 3.4,
+          "eScore": 3.3,
+          "aftrek": 0,
+          "subtotal": 9.1
+        },
+        "ZM": {
+          "dScore": 3,
+          "aScore": 5.1,
+          "eScore": 5,
+          "aftrek": 0,
+          "subtotal": 13.1
+        }
+      },
+      "total": 9.1,
+      "rank": 3
+    }
+  ]
+}
